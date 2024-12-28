@@ -1,0 +1,42 @@
+.main{
+    margin: 5px;
+    background-color: beige;
+}
+#header{
+    text-align: center;
+    padding:5px;
+    background-color: yellow;
+    color: green;
+    text-decoration:underline ;
+}
+#header1{
+    padding:5px;
+    background-color: yellow;
+    color: green;
+    text-decoration:underline ;
+
+}
+#para{
+    padding: 5px;
+
+}
+#im{
+    width: 50%;
+}
+#input{
+    width: 100%;
+    padding: 5px;
+}
+#click{
+    width:50%;
+    color:white;
+    background-color: green;
+    font-size: 12px;
+
+}
+#end{
+    text-align: center;
+    color: white;
+    background-color: black;
+
+}
